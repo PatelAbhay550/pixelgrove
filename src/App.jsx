@@ -49,21 +49,21 @@ function App() {
           <p>Just Made For Your devices.</p>
           <div className="img">
             <img
-              src="./src/assets/images/Wallpaper3.png"
+              src="/Wallpaper3.png"
               alt="sample wallpaper for home"
               title="sample wallpaper for home"
               loading="eager"
               className="imagemain imagemain2"
             />
             <img
-              src="./src/assets/images/Wallpaper1.png"
+              src="/Wallpaper1.png"
               alt="sample wallpaper for home"
               title="sample wallpaper for home"
               loading="eager"
               className="imagemain"
             />
             <img
-              src="./src/assets/images/Wallpaper2.png"
+              src="/Wallpaper2.png"
               alt="sample wallpaper second for home"
               title="sample wallpaper for home"
               loading="eager"
@@ -77,7 +77,7 @@ function App() {
               <FaHeart size={40} color="blue" />
               <h3>Cool Color Variations</h3>
               <img
-                src="./src/assets/images/colors.webp"
+                src="/colors.webp"
                 alt="colors"
                 title="cool colors"
                 loading="lazy"
@@ -88,7 +88,7 @@ function App() {
               <FaHeart size={40} color="red" />
               <h3>Works on Anything</h3>
               <img
-                src="./src/assets/images/Wallpaper4.png"
+                src="/Wallpaper4.png"
                 alt="all devices support"
                 title="any device compatible"
                 loading="lazy"
