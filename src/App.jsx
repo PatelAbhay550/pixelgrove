@@ -116,7 +116,7 @@ function App() {
                   className="download-button"
                   href={image}
                   download
-                  target="_blank"
+                  
                 >
                   <FaDownload size={24} />
                 </a>
