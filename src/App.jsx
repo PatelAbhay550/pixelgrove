@@ -115,7 +115,7 @@ function App() {
                 <a
                   className="download-button"
                   href={image}
-                  download={`image_${index}`}
+                  download
                   target="_blank"
                 >
                   <FaDownload size={24} />
